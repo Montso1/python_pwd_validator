@@ -1,2 +1,2 @@
 # python_pwd_validator 
-![Alt text](retults/pwd_validator.png)
+![Alt text](retults/pwd_validator_picture.png)
